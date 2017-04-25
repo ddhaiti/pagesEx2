@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Icarus</title>
+    <link>https://example.org/post/index.xml</link>
+    <description>Recent content in Posts on Icarus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
+    <lastBuildDate>Mon, 20 Mar 2017 00:03:34 -0400</lastBuildDate>
+    <atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>good to great</title>
+      <link>https://example.org/2017/03/20/good-to-great</link>
+      <pubDate>Mon, 20 Mar 2017 00:03:34 -0400</pubDate>
+      
+      <guid>https://example.org/2017/03/20/good-to-great</guid>
+      <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
